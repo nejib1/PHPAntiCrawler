@@ -13,4 +13,4 @@ include("anticrawler.php");
 By default, max calls are defined to 500 (line 8)  but you can change it 
 
 ## Contributing
-If you have any question of you want to modify the script please make a Pull Request, thank you.
+If you have any question or you want to contribute, please make a Pull Request, thank you.
