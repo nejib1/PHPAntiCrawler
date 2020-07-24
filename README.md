@@ -9,7 +9,7 @@ The script should be included at the first of your page.
 ```php
 include("anticrawler.php");
 ```
-By default, max call are defined 500 (line 8)  but you can change it 
+By default, max calls are defined 500 (line 8)  but you can change it 
 
 ## Contributing
 If you have any question of you want to modify the script please make a Pull Request, thank you.
