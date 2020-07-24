@@ -1,5 +1,6 @@
 ## PHPAntiCrawler
 This is a simple way to block anyone from crawling your Website.
+
 This script will block any crawler or bot (except Google and Bing for SEO Reasons) to crawl your content.
 
 The script should be included at the head of your script/page.
