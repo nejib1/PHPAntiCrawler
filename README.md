@@ -10,7 +10,14 @@ The script should be included at the head of your script/page.
 ## Usage
 
 ```php
+<?php
 include("anticrawler.php");
+?>
+// Content of your page
+<html>
+....
+etc
+
 ```
 
 ## Why the script is useful ?
