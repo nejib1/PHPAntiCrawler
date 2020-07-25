@@ -12,12 +12,8 @@ The script should be included at the head of your script/page.
 ```php
 <?php
 include("anticrawler.php");
+// Your content here..
 ?>
-// Content of your page
-<html>
-....
-etc
-
 ```
 
 ## Why the script is useful ?
