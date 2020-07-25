@@ -14,8 +14,10 @@ include("anticrawler.php");
 ```
 
 ## Why the script is useful ?
-1) Parsers behind proxies or CloudFlare are detected, the script extract user's real IP.
-2) Your SEO will be not impacted, Google and Bing bots are whitelisted.
+1) We all hate that content from our sites is illegally copied.
+2) Parsers behind proxies or CloudFlare are detected, the script extract user's real IP.
+3) Your SEO will be not impacted, Google and Bing bots are whitelisted.
+4) Each block, you (contact@yourdomain.com) will be notified by email immediately, 
 
 By default, max calls are defined to 500 (line 8)  but you can change it 
 
